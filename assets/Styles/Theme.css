@@ -1,0 +1,15 @@
+#main{
+    position: flex;
+    padding: 10% 3% 5% 11%;
+    margin: -8px;
+    background-color: #24284D;
+}
+
+#graphBlocks{
+    display: grid;
+    position: relative;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+    align-items: center;
+}
